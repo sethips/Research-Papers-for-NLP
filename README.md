@@ -1,11 +1,3 @@
-## Table of contents
-Needs to be done
-
-## Topics Covered
-1. Text preprocessing
-2. 
-
-## Text Preprocessing
 1. ### Stemming
 	In this step you reduce similar words to a single word. For example beautiful and beautifully are stemmed to beauti.
 	Papers. Porter stemmer is the best stemming algorithm and also it can be modified according to your use cases also.
@@ -32,8 +24,12 @@ Needs to be done
 	* Dynamic Feature Induction: The Last Gist to the State-of-the-Art [link](https://aclweb.org/anthology/N16-1031.pdf)
 	* Unsupervised Part-Of-Speech Tagging with Anchor Hidden Markov Models [link](https://transacl.org/ojs/index.php/tacl/article/viewFile/837/192)
 	
-5. Named Entity Disambiguation
- 	It is the process of identifying the mentions of entities in a sentence. Example 'Apple earned a revenue of 400 USD in 2017'. In this exmaple Apple is name of a compant and not a fruit.
+5. ### Named Entity Disambiguation
+ 	It is the process of identifying the mentions of entities in a sentence. Example 'Apple earned a revenue of 400 USD 	    in 2017'. In this exmaple Apple is name of a compant and not a fruit.
 	* Leveraging Deep Neural Networks and Knowledge Graphs for Entiity Disambiguation [link](https://arxiv.org/pdf/1504.07678.pdf)
 	* Deep Joint Entity Disambiguation with Local Neural Attention [link](https://arxiv.org/pdf/1704.04920.pdf)
+	
+6. ### Named Entity Recognition
+ 	It is the task of identifying entities in a sentence and classifying then into categories like a person, 		organization, date, location.
+	* Neural Architectures for Named Entity Recognition [link](https://arxiv.org/pdf/1603.01360.pdf)
 	
