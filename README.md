@@ -27,4 +27,8 @@ Needs to be done
 	* Skip-Through Vectors [link](https://arxiv.org/pdf/1506.06726.pdf)
 	* Towards universal Paraphrastic Sentence Embeddings [link](https://arxiv.org/pdf/1511.08198.pdf)
 	
-
+4. ### Part of Speech Tagging
+ 	It is making up of words in the sentence as noun, verb, adjective, adverb.
+	* Dynamic Feature Induction: The Last Gist to the State-of-the-Art [link](https://aclweb.org/anthology/N16-1031.pdf)
+	* Unsupervised Part-Of-Speech Tagging with Anchor Hidden Markov Models [link](https://transacl.org/ojs/index.php/tacl/article/viewFile/837/192)
+	
