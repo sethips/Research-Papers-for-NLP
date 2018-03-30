@@ -1,3 +1,7 @@
+### Still to be divided into subtopics
+* Distributed Representations of Words and Phrases and their Compositionality [link](https://arxiv.org/pdf/1310.4546.pdf). It discusses the subsampling techniques of removing common words like of, the which just act like noise in the data.
+* 
+
 1. ### Stemming
 	In this step you reduce similar words to a single word. For example beautiful and beautifully are stemmed to beauti.
 	Papers. Porter stemmer is the best stemming algorithm and also it can be modified according to your use cases also.
