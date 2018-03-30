@@ -32,3 +32,8 @@ Needs to be done
 	* Dynamic Feature Induction: The Last Gist to the State-of-the-Art [link](https://aclweb.org/anthology/N16-1031.pdf)
 	* Unsupervised Part-Of-Speech Tagging with Anchor Hidden Markov Models [link](https://transacl.org/ojs/index.php/tacl/article/viewFile/837/192)
 	
+5. Named Entity Disambiguation
+ 	It is the process of identifying the mentions of entities in a sentence. Example 'Apple earned a revenue of 400 USD in 2017'. In this exmaple Apple is name of a compant and not a fruit.
+	* Leveraging Deep Neural Networks and Knowledge Graphs for Entiity Disambiguation [link](https://arxiv.org/pdf/1504.07678.pdf)
+	* Deep Joint Entity Disambiguation with Local Neural Attention [link](https://arxiv.org/pdf/1704.04920.pdf)
+	
